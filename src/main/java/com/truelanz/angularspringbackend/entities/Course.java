@@ -1,6 +1,6 @@
 package com.truelanz.angularspringbackend.entities;
 
-import com.fasterxml.jackson.annotation.JsonIgnore;
+/* import com.fasterxml.jackson.annotation.JsonIgnore; */
 import com.fasterxml.jackson.annotation.JsonProperty;
 
 import jakarta.persistence.Column;
