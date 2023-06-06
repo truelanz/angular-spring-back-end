@@ -24,10 +24,7 @@ public class AngularSpringBackEndApplication {
 			course.setName("Angular com Spring");
 			course.setCategory("Front-end");
 
-			Course course2 = new Course(null, "Java", "Back-end");
-
 			courseRepository.save((course));
-			courseRepository.save((course2));
 		};
 	}
 }
